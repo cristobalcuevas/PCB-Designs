@@ -1,0 +1,13 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "91100c7b-8d7d-4add-80c2-b91c9f540058")
+	(paper "USLetter")
+	(title_block
+		(date "2023-07-07")
+		(rev "4.0")
+		(company "Lab From Scratch")
+	)
+	(lib_symbols)
+)

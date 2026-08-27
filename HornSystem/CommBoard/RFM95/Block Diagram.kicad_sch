@@ -1,0 +1,25 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "abe58ace-f950-4474-8490-9c7def232ce4")
+	(paper "USLetter")
+	(title_block
+		(date "2023-07-07")
+		(rev "4.0")
+		(company "Lab From Scratch")
+	)
+	(lib_symbols)
+	(text "Horn System Board"
+		(exclude_from_sim no)
+		(at 20.32 29.21 0)
+		(effects
+			(font
+				(size 5 5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "1a0f85ec-312d-41fc-9f82-b68802881385")
+	)
+)

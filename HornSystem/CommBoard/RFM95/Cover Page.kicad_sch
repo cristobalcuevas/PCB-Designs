@@ -1,0 +1,71 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "aefe2ac2-ad3e-4e0d-ac18-abdf644b933e")
+	(paper "USLetter")
+	(title_block
+		(date "2023-07-07")
+		(rev "4.0")
+		(company "Lab From Scratch")
+	)
+	(lib_symbols)
+	(text "RFM95"
+		(exclude_from_sim no)
+		(at 132.08 63.5 0)
+		(effects
+			(font
+				(size 5 5)
+				(bold yes)
+				(color 132 132 132 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "67690519-1fef-41ae-9c0c-7782dc3cb58e")
+	)
+	(text "06-07-2023"
+		(exclude_from_sim no)
+		(at 205.74 27.94 0)
+		(effects
+			(font
+				(size 5 5)
+				(thickness 1)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "8883dc72-502d-4ed2-a788-f0f999223597")
+	)
+	(text "Horn System Board"
+		(exclude_from_sim no)
+		(at 19.05 27.94 0)
+		(effects
+			(font
+				(size 5 5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "d8161b12-e2fb-4104-aefb-bcf9541db32f")
+	)
+	(text_box "Page	Index\n1		Cover Page\n2		Block Diagram\n3		Schematic\n4		Revision History"
+		(exclude_from_sim no)
+		(at 17.78 78.74 0)
+		(size 48.26 24.13)
+		(margins 1.5 1.5 1.5 1.5)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2 2)
+			)
+			(justify left)
+		)
+		(uuid "fbdb59db-13d0-4306-b4cd-c7ace49ce4bc")
+	)
+)

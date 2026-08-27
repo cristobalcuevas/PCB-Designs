@@ -1,0 +1,60 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 2ee5d206-ceda-45f1-97e4-5dd8f808e94f)
+
+  (paper "USLetter")
+
+  (title_block
+    (title "Analog Inputs")
+    (date "2023-02-11")
+    (rev "3.0")
+    (company "Lab From Scratch")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "Current Inputs" (at 153.67 85.09 0)
+    (effects (font (size 5 5)) (justify left bottom))
+    (uuid b6a3a833-f81f-4352-917e-32e49cbf8b6b)
+  )
+  (text "Voltage Inputs" (at 78.105 84.455 0)
+    (effects (font (size 5 5)) (justify left bottom))
+    (uuid bde6b792-81c6-42a8-973b-0559cfe7bfa1)
+  )
+
+  (sheet (at 88.265 93.345) (size 31.75 19.685) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 255 255 194 1.0000))
+    (uuid 57885abc-3b11-4824-bf5c-e43bf95bc992)
+    (property "Sheetname" "VoltageInputs" (at 88.265 92.6334 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "VoltageInputs.kicad_sch" (at 88.265 113.6146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "MainBoard"
+        (path "/4a8275f9-5e7b-48ce-abc0-5a85cfdfb7e5/c41558b1-b7cb-4878-a444-51cc0284630b" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 156.845 93.345) (size 31.75 19.685) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 255 255 194 1.0000))
+    (uuid 83692e74-8450-4174-a6aa-8fd612801049)
+    (property "Sheetname" "CurrentInputs" (at 156.845 92.6334 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "CurrentInputs.kicad_sch" (at 156.845 113.6146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "MainBoard"
+        (path "/4a8275f9-5e7b-48ce-abc0-5a85cfdfb7e5/c41558b1-b7cb-4878-a444-51cc0284630b" (page "9"))
+      )
+    )
+  )
+)
