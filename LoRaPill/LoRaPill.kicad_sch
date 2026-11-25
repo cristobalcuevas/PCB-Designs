@@ -1,7 +1,7 @@
 (kicad_sch
 	(version 20260306)
 	(generator "eeschema")
-	(generator_version "10.0")
+	(generator_version "10.99")
 	(uuid "3f3db114-f3c2-4bc2-9d68-69e4118569b6")
 	(paper "A4")
 	(title_block
@@ -4933,6 +4933,17 @@
 			)
 			(embedded_fonts no)
 		)
+	)
+	(text "NOTA: Para energizar correctamente\nel  microcontrolador, J7 debe tener \nel jumper puesto."
+		(exclude_from_sim no)
+		(at 193.04 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b10ae2fc-13ea-445f-845d-96492523e23f")
 	)
 	(junction
 		(at 92.71 33.02)
