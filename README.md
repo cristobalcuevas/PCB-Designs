@@ -1,3 +1,7 @@
+<!-- boardrepo-badge:v1 -->
+[![View on BoardRepo](https://boardrepo.com/badge/github.svg?v=2)](https://boardrepo.com/b/e3d4b575-0031-4e08-b355-d4926d8c956e?ref=github-readme)
+<!-- /boardrepo-badge:v1 -->
+
 # Kicad
 Projects with Kicad
 
